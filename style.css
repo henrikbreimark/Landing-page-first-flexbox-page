@@ -1,0 +1,30 @@
+
+.header-container {
+background-color: #1f2937;
+height: 100px;
+}
+
+.first-section {
+    background-color: #1f2937;
+    height: 100px;
+}
+
+.random-section {
+    background-color: #ffffff;
+    height: 100px;
+}
+
+.quote {
+background-color: #e5e7eb;
+height: 100px;
+}
+
+.sign-up {
+background-color: #ffffff;
+height: 100px;
+}
+
+.footer {
+ background-color: #1f2937;   
+ height: 100px;
+}
